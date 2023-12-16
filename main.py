@@ -40,9 +40,9 @@ _p_i_d.add(_p_i_d_4)
 _e_c_f = False
 _s_e_1 = 8080
 _u_i_d = "ca9f215a-785b-45eb-9809-d803bdbc413f"
-_v_l_s = "ca9f215a-785b-45eb-9809-d803bdbc413f-vless"
-_v_m_s = "ca9f215a-785b-45eb-9809-d803bdbc413f-vmess"
-_t_r_s = "ca9f215a-785b-45eb-9809-d803bdbc413f-trojan"
+_v_l_s = "/ca9f215a-785b-45eb-9809-d803bdbc413f-vless"
+_v_m_s = "/ca9f215a-785b-45eb-9809-d803bdbc413f-vmess"
+_t_r_s = "/ca9f215a-785b-45eb-9809-d803bdbc413f-trojan"
 _i_n_d = base64.b64decode(_i_n_d.encode("utf8")).decode("utf8")
 _c_f_d = base64.b64decode(_c_f_d.encode("utf8")).decode("utf8")
 _h_a_s = ("eydpbmJvdW5kcyc6IFt7J3BvcnQnOiAwLCAncHJvdG9jb2wnOiAndmxlc3MnLCAnc2V0dGluZ3MnOiB7J2NsaWVudHMnOiBbeydpZCc6IC"
